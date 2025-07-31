@@ -6,7 +6,8 @@ default_rule: all
 
 CC = clang
 
-CFLAGS = -Wall -Wextra -pedantic -std=c89 -Wno-unused-parameter -Wno-unused-function -Wno-unused-variable  #-MJ $@.json
+#CFLAGS = -std=c89
+CFLAGS = -Wall -Wextra -pedantic -Wno-unused-parameter -Wno-unused-function -Wno-unused-variable  #-MJ $@.json
 OPT = -O3 -pipe -march=native
 
 LIBS = -lGLEW -lGL -lGLU -lSDL2 -lm

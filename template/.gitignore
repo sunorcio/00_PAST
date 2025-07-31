@@ -1,0 +1,9 @@
+.cache
+bin
+*.o
+*.d
+*.o.json
+*.out
+*.exe
+compile_commands.json
+perf.*

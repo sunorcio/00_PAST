@@ -1,5 +1,5 @@
-/* #ifndef SRC_SIDE_H */
-/* #define SRC_SIDE_H */
+/* #ifndef HDR_SIDE_H */
+/* #define HDR_SIDE_H */
 
 
 
